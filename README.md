@@ -9,15 +9,15 @@ This repository holds the basic NN methods written in **tensorflow and Keras**, 
 ## Different Applications folder
 ***New examples will be added into this folder on a going basis.***
 
-1. **ChineseNameToGender**
+**1. ChineseNameToGender**
 
 Texting classification using word embedding on Chinese names.
 
-2. **ChineseNewsClassification**
+**2. ChineseNewsClassification**
 
 Texting classification on Chinese news using FastText model.
 
-3. **VoiceToGender**
+**3. VoiceToGender**
 
 Simple fully connected NN to do classification from voice to gender.
 
